@@ -9,3 +9,5 @@ Solder or connect a PWM cable to the solder holes or pins next to the text 'Rate
 Used to test a gyroscope and the Gyro WPILIB class.
 the getAngle() method gets the angle of the current heading since teleopInit()
 when the gyro.reset(); is called
+
+see comments on source for more information
