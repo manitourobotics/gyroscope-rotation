@@ -17,7 +17,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
  * which will take the setpoint minus current angle and use that as an indication
  * of error which it attempts to correct using PID pidControl. 
  * 
- * The drivetrain's rotation speed is then based on this degree of error
+ * The drivetrain's rotation speed/direction/time duration is then based on this degree of error
  */
 public class GyroscopeTesting extends IterativeRobot {
     public void robotInit() {
