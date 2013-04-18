@@ -41,7 +41,8 @@ public class GyroscopeTesting extends IterativeRobot {
         pidControl.enable();
     }
 
-    // Can only be used on channels 1 and 2 for the analog breakout
+    // Gyroscopes only be used on channels 1 and 2 for the analog breakout
+    // to quote the error, "Accumulators are only available on slot 1 on channels 1,2"
     final int ANALOG_GYRO_SIGNAL = 2;
     Gyro gyro = new Gyro(ANALOG_GYRO_SIGNAL);
 
