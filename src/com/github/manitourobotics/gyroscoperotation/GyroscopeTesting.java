@@ -1,4 +1,4 @@
-package com.github.manitourobotics.gyroscopetesting;
+package com.github.manitourobotics.gyroscoperotation;
 
 
 import edu.wpi.first.wpilibj.Gyro;
