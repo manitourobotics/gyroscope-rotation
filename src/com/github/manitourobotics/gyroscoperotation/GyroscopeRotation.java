@@ -19,7 +19,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
  * 
  * The drivetrain's rotation speed/direction/time duration is then based on this degree of error
  */
-public class GyroscopeTesting extends IterativeRobot {
+public class GyroscopeRotation extends IterativeRobot {
     public void robotInit() {
 
         // The gyroscope outputs a the absolute angle from the 

@@ -1,6 +1,6 @@
 MIDlet-Name: AccelerometerTesting
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: FIRST
-MIDlet-1: GyroscopeTesting, ,  com.github.manitourobotics.gyroscoperotation.GyroscopeTesting
+MIDlet-1: GyroscopeRotation, , com.github.manitourobotics.gyroscoperotation.GyroscopeRotation
 MicroEdition-Profile: IMP-1.0
 MicroEdition-Configuration: CLDC-1.1
